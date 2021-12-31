@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440992997944",
+    "project_id": "crisis-chat-5f543",
+    "storage_bucket": "crisis-chat-5f543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440992997944:android:06b5ee33167b6c91527ccd",
+        "android_client_info": {
+          "package_name": "com.sir.crisischat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440992997944-rbkghg1emsmejpstucaaaf9m8kgdcf6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6YeC9pegVnZxD7K4sv7VZs82DRO2oJgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440992997944-rbkghg1emsmejpstucaaaf9m8kgdcf6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
